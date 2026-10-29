@@ -148,7 +148,7 @@ Explore my repositories to see what I'm building, experimenting with, and learni
   <a href="https://github.com/harshal459">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/harshal-patil-9161533a3/?skipRedirect=true&contentTrackingId=5Hdce26RTjiFyyEP%2BbmvgQ%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
